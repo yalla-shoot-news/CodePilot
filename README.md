@@ -1,2 +1,2 @@
-# CodePilot-
+# CodePilot
 CodePilot 
